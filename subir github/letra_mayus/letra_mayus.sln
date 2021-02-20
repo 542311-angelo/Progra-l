@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "letra_mayus", "letra_mayus\letra_mayus.csproj", "{52A113AD-FC2A-4BA9-80A9-E17991454884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A113AD-FC2A-4BA9-80A9-E17991454884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A113AD-FC2A-4BA9-80A9-E17991454884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A113AD-FC2A-4BA9-80A9-E17991454884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A113AD-FC2A-4BA9-80A9-E17991454884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6A68DC-FE43-4CF3-A98C-2861CCAC2C63}
+	EndGlobalSection
+EndGlobal

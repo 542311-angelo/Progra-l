@@ -1,0 +1,13 @@
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\obj\Debug\netcoreapp3.1\letra_mayus.csprojAssemblyReference.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\obj\Debug\netcoreapp3.1\letra_mayus.AssemblyInfoInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\obj\Debug\netcoreapp3.1\letra_mayus.AssemblyInfo.cs
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\obj\Debug\netcoreapp3.1\letra_mayus.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\bin\Debug\netcoreapp3.1\letra_mayus.exe
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\bin\Debug\netcoreapp3.1\letra_mayus.deps.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\bin\Debug\netcoreapp3.1\letra_mayus.runtimeconfig.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\bin\Debug\netcoreapp3.1\letra_mayus.runtimeconfig.dev.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\bin\Debug\netcoreapp3.1\letra_mayus.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\bin\Debug\netcoreapp3.1\letra_mayus.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\obj\Debug\netcoreapp3.1\letra_mayus.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\obj\Debug\netcoreapp3.1\letra_mayus.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\letra_mayus\letra_mayus\obj\Debug\netcoreapp3.1\letra_mayus.genruntimeconfig.cache

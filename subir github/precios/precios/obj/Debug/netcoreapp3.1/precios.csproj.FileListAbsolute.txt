@@ -1,0 +1,12 @@
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\bin\Debug\netcoreapp3.1\precios.exe
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\bin\Debug\netcoreapp3.1\precios.deps.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\bin\Debug\netcoreapp3.1\precios.runtimeconfig.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\bin\Debug\netcoreapp3.1\precios.runtimeconfig.dev.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\bin\Debug\netcoreapp3.1\precios.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\bin\Debug\netcoreapp3.1\precios.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\obj\Debug\netcoreapp3.1\precios.AssemblyInfoInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\obj\Debug\netcoreapp3.1\precios.AssemblyInfo.cs
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\obj\Debug\netcoreapp3.1\precios.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\obj\Debug\netcoreapp3.1\precios.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\obj\Debug\netcoreapp3.1\precios.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\precios\precios\obj\Debug\netcoreapp3.1\precios.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\obj\Debug\netcoreapp3.1\dias.csprojAssemblyReference.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\obj\Debug\netcoreapp3.1\dias.AssemblyInfoInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\obj\Debug\netcoreapp3.1\dias.AssemblyInfo.cs
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\obj\Debug\netcoreapp3.1\dias.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\bin\Debug\netcoreapp3.1\dias.exe
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\bin\Debug\netcoreapp3.1\dias.deps.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\bin\Debug\netcoreapp3.1\dias.runtimeconfig.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\bin\Debug\netcoreapp3.1\dias.runtimeconfig.dev.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\bin\Debug\netcoreapp3.1\dias.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\bin\Debug\netcoreapp3.1\dias.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\obj\Debug\netcoreapp3.1\dias.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\obj\Debug\netcoreapp3.1\dias.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dias\dias\obj\Debug\netcoreapp3.1\dias.genruntimeconfig.cache
