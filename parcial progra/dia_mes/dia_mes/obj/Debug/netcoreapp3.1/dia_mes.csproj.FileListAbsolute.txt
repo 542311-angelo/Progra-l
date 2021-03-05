@@ -1,0 +1,13 @@
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\bin\Debug\netcoreapp3.1\dia_mes.exe
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\bin\Debug\netcoreapp3.1\dia_mes.deps.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\bin\Debug\netcoreapp3.1\dia_mes.runtimeconfig.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\bin\Debug\netcoreapp3.1\dia_mes.runtimeconfig.dev.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\bin\Debug\netcoreapp3.1\dia_mes.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\bin\Debug\netcoreapp3.1\dia_mes.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\obj\Debug\netcoreapp3.1\dia_mes.csprojAssemblyReference.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\obj\Debug\netcoreapp3.1\dia_mes.AssemblyInfoInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\obj\Debug\netcoreapp3.1\dia_mes.AssemblyInfo.cs
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\obj\Debug\netcoreapp3.1\dia_mes.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\obj\Debug\netcoreapp3.1\dia_mes.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\obj\Debug\netcoreapp3.1\dia_mes.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\dia_mes\dia_mes\obj\Debug\netcoreapp3.1\dia_mes.genruntimeconfig.cache

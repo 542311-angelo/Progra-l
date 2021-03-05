@@ -1,0 +1,13 @@
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\bin\Debug\netcoreapp3.1\adnum.exe
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\bin\Debug\netcoreapp3.1\adnum.deps.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\bin\Debug\netcoreapp3.1\adnum.runtimeconfig.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\bin\Debug\netcoreapp3.1\adnum.runtimeconfig.dev.json
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\bin\Debug\netcoreapp3.1\adnum.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\bin\Debug\netcoreapp3.1\adnum.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\obj\Debug\netcoreapp3.1\adnum.csprojAssemblyReference.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\obj\Debug\netcoreapp3.1\adnum.AssemblyInfoInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\obj\Debug\netcoreapp3.1\adnum.AssemblyInfo.cs
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\obj\Debug\netcoreapp3.1\adnum.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\obj\Debug\netcoreapp3.1\adnum.dll
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\obj\Debug\netcoreapp3.1\adnum.pdb
+C:\Users\ANGELO MUÑOZ\Desktop\ejercicios visual\adnum\adnum\obj\Debug\netcoreapp3.1\adnum.genruntimeconfig.cache
