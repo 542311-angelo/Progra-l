@@ -1,0 +1,141 @@
+Disculpeme que se los tenga que enviar asi, pero como le mencione en el video tengo problemas con mi visual y tengo que instalarlo de nuevo porque al parecer hice algo mal cuando lo instale
+
+
+link video
+
+https://drive.google.com/file/d/1WNIYm_BsSyYGwWzixzVD-easJttun7qm/view?usp=sharing
+
+using System;
+using System.Threading;
+
+namespace ejercicio9
+{
+    class Program { }
+    public static string Mid(string parametro, int startindex, int Length)
+    {
+        string result = parametro.Substring(startindex, Length);
+        return result;
+    }
+    static void Main(string[] args)
+    {
+        string NOM;
+        string CAR;
+        int K = 0;
+        int P = 0;
+        int Convertidor = 0;
+        int CF = 0;
+        Console.Write("Ingrese su nombre: ");
+        NOM = Console.ReadLine();
+        Console.SetCursorPosition(1, 12);
+        Console.Write(NOM);
+        Convertidor = NOM.Length;
+        CF = 70;
+        NOM = NOM.ToUpper();
+        for (P = NOM.Length; P >= 1; P--)
+        {
+            CAR = Mid(NOM, P - 1, 1);
+            for (K = Convertidor; K <= CF; K++)
+            {
+                Console.SetCursorPosition(K, 12);
+                Console.Write(" " + CAR);
+                Thread.Sleep(50);
+            }
+            CF = CF - 1;
+            Convertidor = Convertidor - 1;
+        }
+    }
+
+    string Mid(string nOM, int v1, int v2)
+    {
+        throw new NotImplementedException();
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+public static void dibuja(int Cantidad)
+        {
+            int FF = 22;
+            int CF = 77;
+            int FI = 2;
+            int CI = 2;
+            int F, C, A;
+
+            for (A = 1; A <= Cantidad; A++)
+            {
+                for (F = CI; F <= CF; F++)
+                {
+                    Console.SetCursorPosition(F, FF);Console.Write("?");
+                    Console.SetCursorPosition(F, FI); Console.Write("?");
+                }
+                for (C = CI; C <= FF; C++)
+                {
+                    Console.SetCursorPosition(CI, C); Console.Write("X");
+                    Console.SetCursorPosition(CF, C); Console.Write("X");
+                }
+                FI = FI + 1;
+                FF = FF - 1;
+                CI = CI + 1;
+                CF = CF - 1;
+            }
+        }
+
+        static void Main(string[] args)
+        {
+            for (int tam = 1; tam < 9; tam++)
+            {
+                dibuja(tam);
+                Thread.Sleep(1000);
+            }
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+        public static string generaletra(int min, int max)
+
+        {
+            Random ran = new Random();
+            int NUM = Convert.ToInt32(ran.Next(100));
+            string letrarespuesta = "";
+            if (((NUM > 0) & (NUM < 256)))
+            {
+                letrarespuesta = Convert.ToString((char)NUM);
+            }
+            return letrarespuesta;
+        }
+        static void Main(string[] args)
+        {
+            byte CAN, K;
+            string LINEA;
+            Console.Write("Cuantos numeros?");
+            LINEA = Console.ReadLine();
+            CAN = byte.Parse(LINEA);
+            
+            string letra = "";
+
+            for(K=1; K <= CAN; K++)
+            {
+                letra = generaletra(99,120);
+                Console.WriteLine($"letra generada={letra}");
+            }
+        }
