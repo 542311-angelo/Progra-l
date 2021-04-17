@@ -1,0 +1,10 @@
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\bin\Debug\examenParcial2.exe.config
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\bin\Debug\examenParcial2.exe
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\bin\Debug\examenParcial2.pdb
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\obj\Debug\examenParcial2.csprojAssemblyReference.cache
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\obj\Debug\examenParcial2.Form1.resources
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\obj\Debug\examenParcial2.Properties.Resources.resources
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\obj\Debug\examenParcial2.csproj.GenerateResource.cache
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\obj\Debug\examenParcial2.csproj.CoreCompileInputs.cache
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\obj\Debug\examenParcial2.exe
+C:\Users\ANGELO MUÑOZ\source\repos\examenParcial2\examenParcial2\obj\Debug\examenParcial2.pdb
